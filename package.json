@@ -35,7 +35,7 @@
     "npm": "2.2.x"
   },
   "dependencies": {
-    "ejs": "^2.2.1",
+    "ejs": "^3.1.8",
     "express": "^4.11.0",
     "lodash.findindex": "^2.4.1",
     "raspicam": "^0.2.13",
